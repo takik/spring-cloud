@@ -1,5 +1,4 @@
-# spring-cloud-intro
-Introduction to Spring Cloud Netflix – Eureka
+# spring-cloud-intro : Introduction to Spring Cloud Netflix – Eureka
 
 
 https://www.baeldung.com/spring-cloud-netflix-eureka
