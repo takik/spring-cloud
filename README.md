@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/takik/spring-cloud-intro.svg?branch=master)](https://travis-ci.com/takik/spring-cloud-intro)
 # spring-cloud-intro : Introduction to Spring Cloud Netflix – Eureka
 
 
