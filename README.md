@@ -19,3 +19,7 @@ To achieve the goal of this write-up, we will implement three microservices:
 a service registry (Eureka Server),
 a REST service which registers itself at the registry (Eureka Client) and
 a web-application, which is consuming the REST service as a registry-aware client (Spring Cloud Netflix Feign Client).
+
+
+next ==> https://www.baeldung.com/spring-cloud-configuration
+next ==> https://www.baeldung.com/dockerizing-spring-boot-application
