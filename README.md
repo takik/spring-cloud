@@ -22,4 +22,5 @@ a web-application, which is consuming the REST service as a registry-aware clien
 
 
 next ==> https://www.baeldung.com/spring-cloud-configuration
+
 next ==> https://www.baeldung.com/dockerizing-spring-boot-application
