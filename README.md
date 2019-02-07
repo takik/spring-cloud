@@ -4,6 +4,7 @@
 
 https://www.baeldung.com/spring-cloud-netflix-eureka
 
+
 In this tutorial, we’ll introduce client-side service discovery via “Spring Cloud Netflix Eureka“.
 
 Client-side service discovery allows services to find and communicate with each other without hard coding hostname and port. The only ‘fixed point’ in such an architecture consists of a service registry with which each service has to register.
